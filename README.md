@@ -38,6 +38,7 @@
 
 2. **Запуск backend:**
     ```bash
+    cd server
     docker-compose up -d
     ```
 
